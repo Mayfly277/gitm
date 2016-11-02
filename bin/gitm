@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'gitm/gitmanager'
+Gitm::GitManager.new.run
